@@ -1,0 +1,3 @@
+com\mycompany\myblog\models\Message.class
+com\mycompany\myblog\services\MessageService.class
+com\mycompany\myblog\resources\MessageResource.class
